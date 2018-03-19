@@ -1,0 +1,61 @@
+/* add your CSS here */
+
+*{
+	margin: 0px;
+	padding: 0px;
+	width: 320px
+}
+
+
+.border{
+	border: 1px solid #ddd;
+	background-color: #66FF99;
+}
+
+#outerBorder{
+	box-shadow: 5px 5px 0 1px #ddd;
+	margin: 10px;
+	
+}
+
+#name{
+	font-size: 24px;
+	padding: 10px;
+}
+.pandaImage{
+	width: 300px;
+	padding:10px;
+}
+
+#innerBorder{
+	width:300px;
+	margin:10px;
+}
+
+.content{
+	font-size: 14px;
+	font-family: serif;
+	background-color: #FFFFCC;
+}
+
+.fact{
+	font-style: italic;
+	padding: 10px;
+	width: 280px;
+}
+
+.list{
+	list-style-type:none;
+	text-align: left;
+	padding: 10px;
+	width: 280px;
+}
+
+.label{
+	font-weight: bold;
+}
+
+.description{
+	padding:10px 10px 20px 10px;
+	width: 280px;
+}
